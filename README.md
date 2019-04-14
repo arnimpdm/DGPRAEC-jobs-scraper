@@ -1,4 +1,4 @@
-# DGPRAEC-jobs-scraper
+# DGPRAEC-jobs-scraper-and-notifier
 A end-to-end solution which provides updates about new jobs from a website for surgents.
 
 The focus of this repo lies on the end-to-end solution. Not really a Analytics/Data Science case but a good exercise to practice python skills.
